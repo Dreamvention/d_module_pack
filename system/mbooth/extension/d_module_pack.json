@@ -39,6 +39,10 @@
 
     "changelog": [
         {
+            "version":"1.0.2",
+            "change": "initial commit 2"
+        },
+        {
             "version":"1.0.0",
             "change": "initial commit"
         }
