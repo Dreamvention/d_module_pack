@@ -1,6 +1,6 @@
 {
     "codename": "d_module_pack",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "name": "d_module_pack",
     "description": "Base for all our modules",
     "author": {
